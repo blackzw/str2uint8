@@ -18,7 +18,7 @@ int main(int argc, char** argv)
                 printf("unknown option!\n");
             }
             else{
-                printf("undefined option!\n");
+                printf("undefined option!\n"); 
             }
         }
         else{
